@@ -1,6 +1,6 @@
 ---
-title: Bazarr
-description: Bazarr Widget Configuration
+title: Config Generation
+description: Config generation information
 layout: ../../../layouts/MainLayout.astro
 ---
 

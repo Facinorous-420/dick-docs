@@ -1,6 +1,6 @@
 ---
 title: Source Installation
-description: Install and run homepage from source
+description: Install and run DICK from source for production
 layout: ../../../../layouts/MainLayout.astro
 ---
 

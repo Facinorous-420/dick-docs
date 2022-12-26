@@ -1,6 +1,6 @@
 ---
-title: Services
-description: Service Configuration
+title: Whitelabeling
+description: About white labeling DICK
 layout: ../../../layouts/MainLayout.astro
 ---
 

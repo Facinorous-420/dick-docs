@@ -1,6 +1,6 @@
 ---
 title: Docker Installation
-description: Install and run homepage from Docker
+description: Install and run DICK from Docker for production
 layout: ../../../../layouts/MainLayout.astro
 ---
 

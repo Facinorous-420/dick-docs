@@ -1,6 +1,6 @@
 ---
-title: Admin Panel
-description: Admin panel information
+title: hCaptcha
+description: hCaptcha Information and Setup
 layout: ../../../layouts/MainLayout.astro
 ---
 

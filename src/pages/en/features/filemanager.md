@@ -1,6 +1,6 @@
 ---
-title: Adguard Home
-description: Adguard Home Widget Configuration
+title: File Manager
+description: File Manager information
 layout: ../../../layouts/MainLayout.astro
 ---
 

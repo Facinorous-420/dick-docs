@@ -68,7 +68,9 @@ export const SIDEBAR: Sidebar = {
             { text: 'File Manager', link: 'dick-docs/en/features/filemanager' },
             { text: 'Config Generator', link: 'dick-docs/en/features/configgen' },
             { text: 'Admin Panel', link: 'dick-docs/en/features/adminpanel' },
-            { text: 'User Management', link: 'dick-docs/en/features/users' }
+            { text: 'User Management', link: 'dick-docs/en/features/users' },
+			{ text: 'File Manager', link: 'dick-docs/en/features/filemanager' },
+			{ text: 'hCaptcha', link: 'dick-docs/en/features/hcaptcha' }
         ],
 		'More': [
             { text: 'Troubleshooting', link: 'dick-docs/en/more/troubleshooting' },
