@@ -5,7 +5,7 @@ layout: ../../layouts/MainLayout.astro
 ---
 
 ## About The Project
-
+r
 Dick was created to be an easy to use front end for <a href="https://github.com/tycrek/ass">Ass</a> as there was no public option to allow users to view their saved images on their server. I decided to learn tailwind and also at the same time build this. I did this all in my spare time, and will keep updating as best as I can while I use it. I'm still learning all this so if anyone has suggestions on how to do things better, I am all ears! I love learning! :)
 
 **Current Feautres:**
