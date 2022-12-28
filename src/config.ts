@@ -52,12 +52,9 @@ export const SIDEBAR: Sidebar = {
 	en: {
 		'Getting Started': [
 			{ text: 'Home', link: 'dick-docs/en/' },
-            { text: 'Production', links: [
-                { text: 'Source', link: 'dick-docs/en/installation/production/source' },
-                { text: 'Docker', link: 'dick-docs/en/installation/production/docker' },
-            ]},
-            { text: 'Development', links: [
-                { text: 'Source', link: 'dick-docs/en/installation/development/source' }
+            { text: 'Installation', links: [
+                { text: 'Source', link: 'dick-docs/en/installation/source' },
+                { text: 'Docker', link: 'dick-docs/en/installation/docker' },
             ]},
 
 		],
@@ -67,12 +64,12 @@ export const SIDEBAR: Sidebar = {
         'Features': [
             { text: 'File Manager', link: 'dick-docs/en/features/filemanager' },
             { text: 'Config Generator', link: 'dick-docs/en/features/configgen' },
-            { text: 'Admin Panel', link: 'dick-docs/en/features/adminpanel' },
+            { text: 'App Settings', link: 'dick-docs/en/features/appsettings' },
             { text: 'User Management', link: 'dick-docs/en/features/users' },
-			{ text: 'File Manager', link: 'dick-docs/en/features/filemanager' },
 			{ text: 'hCaptcha', link: 'dick-docs/en/features/hcaptcha' }
         ],
 		'More': [
+			{ text: 'Contributing', link: 'dick-docs/en/more/contributing' },
             { text: 'Troubleshooting', link: 'dick-docs/en/more/troubleshooting' },
             { text: 'Changelog', link: 'dick-docs/en/more/changelog' }
         ],

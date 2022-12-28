@@ -2,7 +2,6 @@
 import { marked } from 'marked';
 
 const releasesResponse = await fetch('https://api.github.com/repos/Facinorous-420/dick/releases');
-console.log(releasesResponse)
 const releases = await releasesResponse.json();
 ---
 

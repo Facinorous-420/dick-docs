@@ -1,0 +1,13 @@
+---
+import { marked } from "marked";
+
+const README = await fetch("https://raw.githubusercontent.com/Facinorous-420/dick/master/README.md")
+    .then((res) => res.text())
+    .then((data) => {
+        return data
+    })
+    .catch((err) => console.log("fetch error", err))
+
+---
+
+<div set:html={marked(README)}></div>

@@ -1,7 +1,0 @@
----
-title: Admin Panel
-description: Admin panel information
-layout: ../../../layouts/MainLayout.astro
----
-
-*Added in v1.1.0*
