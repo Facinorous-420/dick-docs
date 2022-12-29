@@ -42,13 +42,12 @@ Running the project for development purposes is super easy.
    
     cd dick
 
-  3. Edit the config file to let DICK know how to connect to your ASS instance, hopefully not a production one
+  3. Edit the .env file to your needs:
+
+    cp .env.example .env
+    nano .env
    
-  4. Go back to the root of `dick` and install the dependencies for the frontend: 
-   
-    npm i
-   
-  5. Lastly we can start DICK in development mode:
+  4. Lastly we can start DICK in development mode:
 
     npm start:dev
 

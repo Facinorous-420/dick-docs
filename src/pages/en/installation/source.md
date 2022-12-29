@@ -14,13 +14,12 @@ DICK can be installed locally through source if you have `Node >=v16.14.0`:
    
     cd dick
 
-  3. Edit the config file to let DICK know how to connect to your ASS instance
+  3. Edit the .env file to your needs:
+
+    cp .env.example .env
+    nano .env
    
-  4. Go back to the root of `dick` and install the dependencies for the frontend: 
-   
-    npm i
-   
-  5. Lastly we can start DICK:
+  4. Lastly we can start DICK:
 
     npm start
 

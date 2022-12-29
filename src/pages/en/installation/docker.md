@@ -13,11 +13,9 @@ DICK currently has a `Dockerfile` and `docker-compose.yml` included in the repo 
   2. Go into the newly created `dick` folder:
    
     cd dick
-
-  3. Edit the config file to let DICK know how to connect to your ASS instance
    
-  4. Edit the `docker-compose.yml` to match your specific needs by changing the port, and volume location where your ass files are on your system
+  3. Edit the `docker-compose.yml` to match your specific needs by changing the port, ASS domain, and volume locations.
    
-  5. Run the docker compose file, this will create a new container and image named `dick`:
+  4. Run the docker compose file, this will create a new container and image named `dick`:
 
     docker-compose up -d  
